@@ -3,6 +3,7 @@
  *  Date : 20/10/2023
  *  Heure: 01:14
  *  Extrait de solution du lab des  X2028 -- Module C++
+ * Disponible sur github via : https://github.com/DarylNoupik/cpp-pendu-lab.git
 */
 
 
