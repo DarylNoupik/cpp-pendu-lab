@@ -20,6 +20,14 @@ Ce jeu du pendu en C++ est une petite application console permettant de jouer au
 - Gestion des essais et affichage du dessin du pendu.
 - Validation des propositions du joueur.
 
+## Auteur
+** Daryl NOUPIK**
+## Comment importer sur votre machine
+ 1. Installer git sur votre machine
+ 2. une fois l'installation et la configuration ok . Utilisez la commande :
+ ```bash
+ git clone https://github.com/DarylNoupik/cpp-pendu-lab.git
+
 ## Comment exécuter
 
 1. Assurez-vous d'avoir un environnement C++ configuré sur votre système.
@@ -30,14 +38,4 @@ Ce jeu du pendu en C++ est une petite application console permettant de jouer au
 g++ pendu.cpp -o pendu
 ./pendu
 
- ## Auteur
-
- ** Daryl NOUPIK**
-
- ## Comment importer sur votre machine
- 1. Installer git sur votre machine
- 2. une fois l'installation et la configuration ok . Utilisez la commande :
-
- ```bash
-
- git clone https://github.com/DarylNoupik/cpp-pendu-lab.git
+ 
