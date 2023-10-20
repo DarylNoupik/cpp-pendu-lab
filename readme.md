@@ -21,7 +21,7 @@ Ce jeu du pendu en C++ est une petite application console permettant de jouer au
 - Validation des propositions du joueur.
 
 ## Auteur
-** Daryl NOUPIK**
+**Daryl NOUPIK**
 ## Comment importer sur votre machine
  1. Installer git sur votre machine
  2. une fois l'installation et la configuration ok . Utilisez la commande :
